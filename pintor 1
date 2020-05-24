@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>vincent</title>
+</head>
+<body>
+    <div id="header">
+        <h1>VINCENT WILLEM VAN GOGH</h1>
+    </div>
+    <div id="section">
+        <p style="color: darkgoldenrod;"></p>
+        <p class="formato1">
+            <h2>Historia</h2>
+        </p>
+        <p>Nacio el 30 de Mayo del año 1853 y fallecio a los 37 años el 29 de Julio de 1890 a causa de una herida por una arma de fuego, aun no se sabe con seguridad si fue un suicidio o un homicidio involuntario.</p>
+        <p>Fue un pintor neerlandés, uno de los principales exponentes del postimpresionismo.</p>
+        <pre>                                                                                  <img src="posimpresionismo.jpg" alt="posimpresionismo" width="400" height="250">  </pre> 
+        <p>Pinto unos 900 cuadros, entre ellos 43 autorretratos y 148 acuarelas y realizo mas de 1600 dibujos.</p>
+        <p>Una figura central en su vida fue su hermano menor Theo, quien le presto apoyo financiero de manera continua y desinteresada. la gran amistad entre ellos esta documentada en las numerosas cartas que se intercambiaban desde agosto de 1872. De las 800 cartas que se conservan del pintor, unas 650 fueron para Theo, las otras son correspondencia con amigos y familiares.</p>
+        <p>Desde joven tuvo inclinación hacia el dibujo. su primer trabajo fue en una galeria de arte. Mas tarde se convirtio en pastor protestante y en 1879, a la edad de 26 años, se marcho como misionero a una region minera de Beligica, done comenzo a dibujar a la gente de la comunidad local.</p>
+        <p>En 1885 pinto su primera gran obra llamada "los comedores de plantas"</p>
+         <pre>                                                                                <img src="comedores.jpg" alt="comedores" width="400" height="250">              </pre>
+        <p>En ese momento su paleta se componia principalmente de tonos sombrios y terrosos.</p>
+        <p>La calidad de su obra fue reconocida solo despues de su muerte, en una exposición retrospectiva en 1890, considerandose en la actualidad uno de los grandes maestros de la historia de la pintura.influyo grandemente en el arte del siglo xx, especialmente entre los expresionistas alemandes y los fauvistas como Matisse, Derain, Vlaminck y Kees Van Dongen.</p>
+       
+        <h2>Pinturas </h2>
+      <pre>               <img src="la noche.jpg" alt="la noche" width="400" height="250">          <img src="van.jpg" alt="van" width="400" height="250">       <img src="gogh.jpg" alt="gogh" width="400" height="250">   </pre>
+       <pre></pre>
+      <pre>               <img src="cuadro.jpg" alt="cuadro" width="400" height="300">          <img src="pintura.jpg" alt="pintura" width="400" height="300">          <img src="obra.jpg" alt="obra" width="400" height="300">  </pre>
+       <pre></pre>
+       <pre>              <img src="10.jpg" alt="10" width="400" height="250">            <img src="11.jpg" alt="11" width="400" height="250">           <img src="12.webp" alt="12" width="400" height="250"></pre>
+       <pre></pre>
+       <pre>               <img src="13.jpg" alt="13" width="400" height="250">           <img src="14.jpg" alt="14" width="400" height="250">          <img src="15.jpg" alt="15" width="400" height="250"></pre>
+    </div>
+    <
+</body>
+</html>
