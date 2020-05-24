@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>leonardo</title>
+</head>
+<body>
+    <div id="header">
+        <h1>LEONARDO DI SER PIERO DE VINCI</h1>
+    </div>
+    <div id="section">
+        <p style="color: darkgoldenrod;"></p>
+        <p class="formato1">
+            <h2>Historia</h2>
+        </p>
+        <p>Nacio el 15 de abril de 1452 y fallecio el 2 de mayo de 1519.</p>
+        <p>Fue un polimata florentino del renacimiento italiano.</p>
+        <p>Fue a la vez pintor, anatomista, arquitecto, paleontologo, artisa, botanico, cientifico, escritor, escultor, filosofo, ingeniero, inventor, musico, poeta y urbanista.</p>
+        <p>Murio acompañado de Francesco Melzi, a quien lego sus proyectos, diseños y pinturas. tras pasar su infancia en su ciudad natal, leonardo estudio con el pintor florentino Andrea de Verrochino.</p>
+        <p>Sus primeros trabajos de importancia furon creados en Milan al servicio del duque Ludovico Sforza. Trabajo a continuación en Roma, Bolonia y Venecia, y paso sus ultimos años en Francia, por invitación del rey Francisco I</p>
+        <p>Leonardo de Vinci es conciderado uno de los mas grandes pintores de todos los tiempos y, probablemente, la persona con el mayor numero de talentos en multiples disciplinas que jamas ha existido. Como ingeniero e inventor, Leonardo desarrollo ideas muy adelantadas a su tiempo, tales coo el helicoptero, el carro de combate, el submarino y el automovil.</p>
+        <p>Muy pocos de sus proyectos llegaron a construisre (entre ellos la maquina para medir el limite elastico de un cable), puesto que la mayoria no eran realizables durante esa epoca.</p>
+        <p>Como cientifico, Leonardo hizo progresar mucho e conocimiento en las areas de anatomia, la ingenieria civil, la optica y la hidrodinamica.</p>
+        <p>Su asociación con la historia mas famosa es la pintura. Dos de sus obras mas conocidas:</p>
+        <h2>La Gioconda.</h2>
+        <pre>                                                                                 <img src="mona.jpg" alt="mona" width="400" height="350">        </pre>
+        <h2>La ultima cena.</h2>
+        <pre>                                                                                 <img src="ultima cena.jpg" alt="ultima cena" width="400" height="350">  </pre> 
+        <pre></pre>
+        <p>Han sido copiadas y parodiadas en varias ocaciones, al igual que su dibujo:</p>
+        <h2>Hombre de Vitruvio</h2>
+        <pre>                                                                                 <img src="hombre.jpg" alt="hombre" width="400" height="350"></pre>
+        <p>No obsante, unicamente se conocen alrededor de 20 obras suyas, debido principalmente a sus reiterados experimentos con nuevas tecnicas y a su inconstancia cronica.</p>
+        <p>Este reducido numero de creaciones, junto con sus cuadernos</p>
+        <h2>Pinturas</h2>
+        <pre>                  <img src="1.webp" alt="1" width="400" height="250">       <img src="2.webp" alt="2" width="400" height="250">        <img src="3.jpg" alt="3" width="400" height="250"> </pre>
+        <pre></pre>
+        <pre>                  <img src="4.jpg" alt="4" width="400" height="300">         <img src="5.jpg" alt="5" width="400" height="300">      <img src="6.jpeg" alt="6" width="400" height="300"></pre>
+        <pre></pre>
+        <pre>                  <img src="7.jpg" alt="7" width="400" height="300">          <img src="8.jpg" alt="8" width="400" height="300">        <img src="9.jpg" alt="9" width="400" height="300"></pre>
+    </div>
+</body>
+</html>
