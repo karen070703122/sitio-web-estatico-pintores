@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>edgar</title>
+</head>
+<body>
+    <div id="header">
+        <h1>HILAIRE GERMAIN EDGAR DE GAS</h1>
+    </div>
+    <div id="section">
+        <p style="color: darkgoldenrod;"></p>
+        <p class="formato1">
+            <h2>Historia</h2>
+        </p>
+        <p>Nacio el 19 de julio de 1834 y fallecio el 27 de diciembre de 1917.</p>
+        <p>Fue un pintor, escritor y grabador frances.</p>
+        <p>Considerando uno de los fundadores del impresionismo, aunque el mismo rechazaba el nombre y preferia llamarlo realismo o arte realista.</p>
+        <p>Fue uno de los grandes dibujantes de la historia por su magistral captacion de las sensaciones de vida y movimiento, especialmente en sus obras de bailarinas, carreras de caballos y desnudos.</p>
+        <p>Sus retratos sun muy apreciados por la complejidad psicologica y sensación de verdad que transmiten.</p>
+        <pre></pre>
+        <h2>Pinturas</h2>
+        <pre>                  <img src="30.jpg" alt="30" width="400" height="250">        <img src="31.jpg" alt="31" width="400" height="250">         <img src="32.jpg" alt="32" width="400" height="250"></pre>
+        <pre></pre>
+        <pre>                  <img src="33.jpg" alt="33" width="400" height="250">         <img src="34.jpg" alt="34" width="400" height="250">          <img src="35.jpg" alt="35" width="400" height="250"></pre>
+        <pre></pre>
+        <pre>                  <img src="36.jpg" alt="36" width="400" height="250">         <img src="37.jpg" alt="37" width="400" height="250">         <img src="38.jpg" alt="38" width="400" height="250"></pre>
+
+    </div>
+</body>
+</html>
