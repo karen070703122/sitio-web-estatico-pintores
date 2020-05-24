@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>vasili</title>
+</head>
+<body>
+    <div id="header">
+        <h1>VASILI VASILIEVICH KANDINSKI</h1>
+  </div>
+  <div id="section">
+      <p style="color: darkgoldenrod;"></p>
+      <p class="formato1">
+          <h2>Historia</h2>
+      </p>
+      <p>Nacio el 16 de Diciembre de 1866 y fallecio el 13 de Diciembre de 1944.</p>
+      <p>Fue un pintor ruso, precursor del arte abstracto en pintura y teorico del arte. Se concidera que con el comienzan la abstracción lírica y el expresionismo.</p>
+      <p>Paso su niñez en odessa, donde se graduo en la escuela de arte grekov odessa. Se matriculo en la universidad estatal de moscu, donde estudio derecho y economia, tras lo cual empezo a ejercer con exito su profesión e incluso le ofrecieron un puesto de profesor de derecho romano en la universidad de dorpat. Sin embargo, decidio comenzar a estudiar pintura cuando tenia 30 años</p>
+      <p>Tras la revolución rusa, se convirtio en un gran conocedor de la administración cultural de Anatoli Lunacharski (fue un dramaturgo, critico literario y politico comunista ruso) el comisario de educación de la nueva administración soviatica de rusia, y ayudo a fundar el Museo de Cultura de la Pintura.</p>
+      <p>Sin embargo para entonces su perspectiva espirutal era ajena al materialismo argumentativo de la sociedad sovietica, y las oportunidades le atrajeron de nuevo en alemania, a donde retomo en 1920.</p>
+      <p>Allí enseño en la escuela de la bauhaus de arte y arquitectura desde 1992 hasta que la cerraron los nazis en 1933.</p>
+      <p>Entonces se traslado a francia, donde residio el resto de su vida y donde adquirio la ciudadania francesa en 1939. En este pais creo algunas de sus mejores obras.</p>
+      <pre></pre>
+      <h2>Pinturas</h2>
+      <pre>                   <img src="20.jpg" alt="20" width="400" height="250">         <img src="21.jpg" alt="21" width="400" height="250">        <img src="22.jpg" alt="22" width="400" height="250"></pre>
+      <pre></pre>
+      <pre>                   <img src="23.jpg" alt="23" width="400" height="250">          <img src="24.jpg" alt="24" width="400" height="250">        <img src="25.jpg" alt="25" width="400" height="250"></pre>
+      <pre></pre>
+      <pre>                   <img src="26.jpg" alt="26" width="400" height="250">           <img src="27.jpg" alt="27" width="400" height="250">        <img src="28.jpg" alt="28" width="400" height="250"></pre>
+
+  </div>
+</body>
+</html>
